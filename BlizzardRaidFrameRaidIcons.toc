@@ -1,0 +1,7 @@
+## Interface: 90200
+## Title: Blizzard Raid Frame Raid Icons
+## Version: 1.0
+## Notes: Puts raid icons on the blizzard raid frames
+## Author: Ant-Kazzak
+
+BlizzardRaidFrameRaidIcons.lua
